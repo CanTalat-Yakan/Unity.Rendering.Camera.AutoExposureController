@@ -1,0 +1,17 @@
+{
+    "name": "UnityEssentials.CameraAutoExposureController",
+    "rootNamespace": "UnityEssentials",
+    "references": [
+        "GUID:ad1c40c8ebf9c2c419f0afd5ed66c0ef",
+        "GUID:8813b446ebd89044f9e25af12472a330"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
