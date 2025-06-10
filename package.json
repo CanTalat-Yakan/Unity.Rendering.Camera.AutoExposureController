@@ -6,7 +6,9 @@
   "unity": "2022.1",
   "unityRelease": "",
   "dependencies": {
-    "com.unityessentials.core": "1.0.0"
+    "com.unityessentials.core": "1.0.0",
+    "com.unityessentials.cameraphysicalpropertiescontroller": "1.0.0",
+    "com.unityessentials.cameraluminancecalculator": "1.0.0"
   },
   "keywords": [],
   "author": {
