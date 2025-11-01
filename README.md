@@ -50,7 +50,7 @@ Automatic exposure adjustment is applied based on measured scene luminance. Shut
   - Simple per‑frame adjustment in `Update`, no Post‑Processing requirement
 
 ## Requirements
-- Unity 6000.0+ (per package manifest)
+- Unity 6000.0+
 - Components on the same Camera:
   - `CameraLuminanceCalculator` (provides current scene luminance)
   - `CameraPhysicalPropertiesController` (applies shutter/ISO multipliers)
