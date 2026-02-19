@@ -1,17 +1,17 @@
 {
   "name": "com.unityessentials.rendering.camera.autoexposurecontroller",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "Rendering Camera AutoExposureController",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
   "dependencies": {
-    "com.unityessentials.editor.attributes.minmaxslider": "2.0.0",
-    "com.unityessentials.editor.attributes.readonly": "2.0.0",
-    "com.unityessentials.rendering.camera.luminancecalculator": "2.0.0",
-    "com.unityessentials.rendering.camera.physicalpropertiescontroller": "2.0.0",
-    "com.unityessentials.systems.assetresolver": "2.0.0",
-    "com.unityessentials.systems.utilityextensions": "2.0.0"
+    "com.unityessentials.editor.attributes.minmaxslider": "~2.0.0",
+    "com.unityessentials.editor.attributes.readonly": "~2.0.0",
+    "com.unityessentials.rendering.camera.luminancecalculator": "~2.0.0",
+    "com.unityessentials.rendering.camera.physicalpropertiescontroller": "~2.0.0",
+    "com.unityessentials.systems.assetresolver": "~2.0.0",
+    "com.unityessentials.systems.utilityextensions": "~2.0.0"
   },
   "keywords": [],
   "author": {
