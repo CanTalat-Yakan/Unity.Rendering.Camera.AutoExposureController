@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.CameraAutoExposureController",
+    "name": "UnityEssentials.Rendering.Camera.AutoExposureController",
     "rootNamespace": "UnityEssentials",
     "references": [
         "GUID:ad1c40c8ebf9c2c419f0afd5ed66c0ef",
